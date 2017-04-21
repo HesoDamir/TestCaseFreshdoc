@@ -1,0 +1,18 @@
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.exe.config
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.exe
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.frmTestFD.resources
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.Properties.Resources.resources
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.csproj.GenerateResource.Cache
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.exe
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.csprojResolveAssemblyReference.cache
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.exe.config
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestCaseFreshdoc.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.csprojResolveAssemblyReference.cache
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.frmTestFD.resources
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.Properties.Resources.resources
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\obj\Debug\TestCaseFreshdoc.csproj.GenerateResource.Cache

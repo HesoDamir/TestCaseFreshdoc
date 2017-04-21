@@ -1,0 +1,10 @@
+[19.04.2017 16:37:10.028] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] session not created exception
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64) (InsecureCertificate)
+--------
+[19.04.2017 17:17:53.684] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------

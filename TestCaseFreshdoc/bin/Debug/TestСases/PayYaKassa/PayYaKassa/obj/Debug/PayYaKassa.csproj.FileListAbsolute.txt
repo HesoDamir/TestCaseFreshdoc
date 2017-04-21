@@ -1,0 +1,39 @@
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.exe.config
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.exe
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\ElementWaiting.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Logger.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Login.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.Support.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\ElementWaiting.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Logger.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Login.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.Support.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.Support.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.csprojResolveAssemblyReference.cache
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.exe
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.exe.config
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\PayYaKassa.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\ElementWaiting.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Logger.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Login.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\ElementWaiting.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Logger.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Login.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.Support.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\bin\Debug\WebDriver.Support.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\PayYaKassa\PayYaKassa\obj\Debug\PayYaKassa.csprojResolveAssemblyReference.cache

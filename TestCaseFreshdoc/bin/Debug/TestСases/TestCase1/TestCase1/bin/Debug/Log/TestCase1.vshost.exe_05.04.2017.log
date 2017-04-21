@@ -1,0 +1,27 @@
+[05.04.2017 09:34:20.295] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 09:51:26.935] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 10:02:04.226] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 10:04:37.816] [OpenQA.Selenium.DriverService.FindDriverServiceExecutable()] The IEDriverServer.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://selenium-release.storage.googleapis.com/index.html.
+[05.04.2017 10:05:34.742] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unexpected error launching Internet Explorer. Browser zoom level was set to 110%. It should be set to 100%
+[05.04.2017 10:15:21.565] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unable to find element on closed window
+[05.04.2017 10:16:00.570] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unable to find element on closed window
+[05.04.2017 10:16:13.297] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] Unable to find element with xpath == //button[@title='Ќа весь экран']
+[05.04.2017 10:28:13.501] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 11:04:09.468] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 11:53:48.675] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 11:55:51.561] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:00:04.491] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:00:32.281] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:08:42.916] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:11:55.218] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:12:53.523] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:13:56.409] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:14:39.203] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:19:48.359] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:20:30.886] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:26:48.379] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:28:48.327] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:31:59.000] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 12:46:50.287] [OpenQA.Selenium.Remote.RemoteWebElement.get_Displayed()] «аданное приведение €вл€етс€ недопустимым.
+[05.04.2017 14:38:56.677] [OpenQA.Selenium.DriverService.FindDriverServiceExecutable()] The geckodriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at https://github.com/mozilla/geckodriver/releases.
+[05.04.2017 14:39:18.155] [OpenQA.Selenium.DriverService.FindDriverServiceExecutable()] The geckodriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at https://github.com/mozilla/geckodriver/releases.

@@ -1,0 +1,68 @@
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe.config
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\ElementWaiting.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.dll
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.xml
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.xml
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.xml
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.csprojResolveAssemblyReference.cache
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.exe
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer-license.txt
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer.exe
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.pdb
+c:\users\dmhabibulin\documents\visual studio 2013\Projects\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe.config
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.exe
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer-license.txt
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer.exe
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\ElementWaiting.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.dll
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\ElementWaiting.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.pdb
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.xml
+C:\Users\dmhabibulin\Documents\Visual Studio 2013\Projects\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.csprojResolveAssemblyReference.cache
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe.config
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer-license.txt
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\IEDriverServer.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.exe
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\VerifykShowElementPT.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\ElementWaiting.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.dll
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\ElementWaiting.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Logger.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Login.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\nunit.framework.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.pdb
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\bin\Debug\WebDriver.Support.xml
+D:\AutomatedTesting\TestCaseFreshdoc\TestCaseFreshdoc\bin\Debug\TestСases\VerifykShowElementPT\VerifykShowElementPT\obj\Debug\VerifykShowElementPT.csprojResolveAssemblyReference.cache

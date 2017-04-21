@@ -1,0 +1,105 @@
+[17.04.2017 10:46:05.541] Element is displayed on the page. no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Н весь экран']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 10:51:48.808] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Н весь экран']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:15:08.125] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Сврнуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:19:31.150] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label qd-carcass__button--settings DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:24:49.320] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Сврнуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:24:49.376] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label qd-carcass__button--settings DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:29:13.730] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Сврнуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:29:13.778] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label qd-carcass__button--settings DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:30:29.073] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Закрыь']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:30:29.125] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Соранить']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:30:29.170] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Пчать']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:30:29.365] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Сврнуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:30:29.411] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label qd-carcass__button--settings DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:32:34.257] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Сврнуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:32:34.313] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label.qd-carcass__button--settings.DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+[17.04.2017 12:35:48.966] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label.qd-carcass__button--settings.DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+[17.04.2017 12:36:12.316] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label.qd-carcass__button--settings.DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+[17.04.2017 12:37:34.010] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label.qd-carcass__button--settings.DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 12:37:56.824] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > DD-label.qd-carcass__button--settings.DD-label__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 12:44:15.942] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.DD-component > div.DD-button.qd-carcass__button--contents.DD-button__action-target"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:13:47.785] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.qd-disc-block.qd-disc-answer > div.qd-disc-contents-container"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:21:07.625] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.qd-disc-block.qd-disc-answe > div.qd-block-data > div.qd-disc-contents-container"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:21:07.680] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"css selector","selector":"div.qd-disc-block.qd-disc-answe > div.qd-block-data > div.qd-disc-block-footer > div.qd-disc-block-toolbar"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:27:14.468] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] unknown error: Element <button class="DD-button DD-button__action-target" title="На весь экран" value="" style="min-width: 44px; margin-right: 0px; width: 44px;">...</button> is not clickable at point (872, 369). Other element would receive the click: <div id="doccontrol_75572492" class="qd-doccontrol default-theme loading qd-app_desktop" spellcheck="false">...</div>
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:32:41.841] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] unknown error: Element <button class="DD-button DD-button__action-target" title="На весь экран" value="" style="min-width: 44px; margin-right: 0px; width: 44px;">...</button> is not clickable at point (872, 369). Other element would receive the click: <div id="doccontrol_40521268" class="qd-doccontrol default-theme loading qd-app_desktop" spellcheck="false">...</div>
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:33:59.107] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='На весь экран']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:36:14.446] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Свернуть']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:37:28.201] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] element not visible
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 14:44:16.911] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] element not visible
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[17.04.2017 16:10:52.430] Element NOT is displayed on the page!!!no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='На весь экран']"}
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------

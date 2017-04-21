@@ -1,0 +1,54 @@
+[20.04.2017 11:48:21.999] [OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError()] unknown error: Element <button class="DD-button DD-button__action-target" title="Печать" value="" style="min-width: 44px; margin-right: 0px; width: 44px;">...</button> is not clickable at point (129, 369). Other element would receive the click: <div class="qd-doccontrol-plashka" style="left: 9.07926px; top: 208.937px; right: 9.07926px; bottom: -9017.64px; position: fixed; opacity: 1;"></div>
+  (Session info: chrome=57.0.2987.133)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64)
+--------
+[20.04.2017 11:50:11.284] [OpenQA.Selenium.Support.UI.DefaultWait`1[T].ThrowTimeoutException()] Timed out after 30 seconds
+--------
+[20.04.2017 11:58:57.961] [OpenQA.Selenium.Support.UI.DefaultWait`1[T].ThrowTimeoutException()] Timed out after 30 seconds
+--------
+[20.04.2017 12:08:55.349] [OpenQA.Selenium.Support.UI.DefaultWait`1[T].ThrowTimeoutException()] Timed out after 30 seconds
+--------
+[20.04.2017 15:59:45.214] [NUnit.Framework.Assert.ReportFailure()]   Expected string length 12 but was 58. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Типовой агентский договор - скачать образец, шаблон, бланк"
+  -----------^
+
+--------
+[20.04.2017 16:02:20.827] Element NOT is displayed on the page!!!  Expected string length 12 but was 58. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Типовой агентский договор - скачать образец, шаблон, бланк"
+  -----------^
+
+--------
+[20.04.2017 16:09:21.083] Element NOT is displayed on the page!!!  Expected string length 12 but was 40. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Конструктор договоров, документов онлайн"
+  -----------^
+
+--------
+[20.04.2017 16:17:22.566] Element NOT is displayed on the page!!!  Expected string length 12 but was 40. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Конструктор договоров, документов онлайн"
+  -----------^
+
+--------
+[20.04.2017 16:20:48.450] Element NOT is displayed on the page!!!  Expected string length 12 but was 40. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Конструктор договоров, документов онлайн"
+  -----------^
+
+--------
+[20.04.2017 16:24:38.319] Element NOT is displayed on the page!!!  Expected string length 12 but was 40. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Конструктор договоров, документов онлайн"
+  -----------^
+
+--------
+[20.04.2017 17:56:14.575] Element NOT is displayed on the page!!!  Expected string length 12 but was 40. Strings differ at index 0.
+  Expected: "download.php"
+  But was:  "Конструктор договоров, документов онлайн"
+  -----------^
+
+--------
+[20.04.2017 18:22:57.743] [OpenQA.Selenium.Support.UI.DefaultWait`1[T].ThrowTimeoutException()] Timed out after 30 seconds
+--------
