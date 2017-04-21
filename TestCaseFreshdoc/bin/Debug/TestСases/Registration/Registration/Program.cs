@@ -32,7 +32,7 @@ namespace Registration
                 switch (selBrw)
                 {
                     case "Chrome":
-                        driver = new ChromeDriver(@"..\..\..\..\..\BrowserDrivers\");
+                        driver = new ChromeDriver();
                         break;
                     case "Firefox":
                         System.Environment.SetEnvironmentVariable("webdriver.gecko.driver", "geckodriver.exe");
